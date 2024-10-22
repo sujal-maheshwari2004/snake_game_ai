@@ -32,6 +32,7 @@ The main files in the project are:
 ```plaintext
 .
 ├── agent.py            # DQN agent that controls the snake
+├── arial.ttf           # Font file for game
 ├── helper.py           # Utility functions for reward shaping and visualizations
 ├── model.py            # Neural network model for Q-learning
 ├── game.py             # Pygame implementation of the Snake game
